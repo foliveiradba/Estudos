@@ -1,0 +1,7 @@
+Criar VPC
+Criar Subnets
+Criar Internet Gateway
+Attach Internet Gateway na VPC
+Route tables -> Associar subnets e o Internet Gateway
+Verificar regras do ACL
+Verificar regras do Security Group
